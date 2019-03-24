@@ -1,5 +1,7 @@
 # Lab1 验证安卓生命周期
   在MainActivity中重写Activity的生命周期，并在每个方法中打印出Log以便观察。
+## 打开界面
+![打开](https://github.com/HaiErvin/Lab1/blob/master/%E6%89%93%E5%BC%80.PNG?raw=true)
 ## 第一次启动
 ![第一次启动](https://github.com/HaiErvin/Lab1/blob/master/%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%90%AF%E5%8A%A8.PNG?raw=true)
 ## 点击Home键
